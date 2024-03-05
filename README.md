@@ -1,1 +1,2 @@
-# INVENTORY-MANAGEMENT
+# project-inventory-management
+project
